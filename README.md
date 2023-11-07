@@ -2,7 +2,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Create .env.local with following content:
+```
+ENV="qa"
+
+ANALYZE=true
+
+API_BASE_URL="https://tokogame-be-qa-g7ow2sutca-de.a.run.app/core/v1"
+MEMBERS_API_BASE_URL="https://tokogame-be-qa-g7ow2sutca-de.a.run.app/core/members/v1"
+
+GOOGLE_CLIENT_ID=979233588092-tigdgs81vmlq4nrmolss150tk8cdc9v3.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+NEXTAUTH_SECRET=258d497025f587b2a6e255d8665e5e89
+```
+
+Then run the development server:
 
 ```bash
 npm run dev
