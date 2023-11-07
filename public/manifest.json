@@ -1,0 +1,13 @@
+{
+    "theme_color": "#05CE78",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://www.NextAuthIssue.com",
+    "name": "NextAuth Issue",
+    "short_name": "NextAuth Issue",
+    "description": "NextAuth Issue!",
+    "icons": [
+
+    ]
+}

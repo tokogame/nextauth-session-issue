@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /id-ID
+Disallow: /id-id/digital/order
+Disallow: /id-id/digital/[id]
+Disallow: /id-id/search
+Disallow: /id-id/topbos
+Disallow: /submit.html
+Disallow: /about.html
+
+Allow: /
+Sitemap:
